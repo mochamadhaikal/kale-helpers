@@ -7,10 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "KaLe Billionare",
   "license": "ISC",
   "dependencies": {
     "moment": "^2.29.4",
+    "typescript": "^5.2.2",
     "uuid": "^9.0.1"
   }
 }
